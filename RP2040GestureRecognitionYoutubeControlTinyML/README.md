@@ -1,4 +1,5 @@
 **RP2040 Gesture Recognition Interface for Youtube Control - TinyML**
+
 Developed a gesture-recognition system using an RP2040 microcontroller and MPU6050 Sensor to control YouTube playback through three predefined gestures.
 
 - Integrated the MPU6050 using **I²C** and Arm Mbed OS for accelerometer data acquisition and multi threading.
