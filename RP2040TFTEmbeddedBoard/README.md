@@ -1,6 +1,6 @@
 **RP2040 TFT Embedded Board - Custom 4-Layer PCB Design**
 
-Designed a custom four-layer PCB based on the RP2040 microcontroller, integrating a 240x320 TFT display, external flash memory, and a battery--backed Real-Time Clock(RTC).
+Designed a custom four-layer PCB based on the RP2040 microcontroller, integrating a 240x320 TFT display, external flash memory, and a battery-backed Real-Time Clock(RTC).
 
 **Key Features:**
 - 4-layer PCB integrating the RP2040 microcontroller and supporting circuitry.
