@@ -21,4 +21,14 @@ Arcade-style game on a custom-designed PCB using an SSD1306 128x64 OLED display 
 
 <img width="664" height="398" alt="Screenshot 2026-11-03 at 18 25 00" src="https://github.com/user-attachments/assets/d6fa0a92-8a27-4217-8675-350e37a2ab60" />
 
+<img width="931" height="673" alt="Screenshot 2026-11-12 at 22 07 08" src="https://github.com/user-attachments/assets/f9df46c8-4ab4-4970-8b6f-1ac77cf6928d" />
+
+
+
 **PCB Live Gameplay**
+
+https://github.com/user-attachments/assets/b17c1c51-9253-46d1-9533-de497d563570
+
+https://github.com/user-attachments/assets/595a2b85-70f8-4deb-912f-23c4f9f22e44
+
+https://github.com/user-attachments/assets/ff2a66c2-3247-43ad-a074-7fb4a57e962d
