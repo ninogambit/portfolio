@@ -16,3 +16,7 @@ Designed and programmed a custom digital clock PCB based on the ATtiny85 microco
 **PCB**
 
 <img width="642" height="412" alt="Screenshot 2026-11-03 at 20 50 38" src="https://github.com/user-attachments/assets/77358cd2-7498-4ef2-8cc7-f552fcad58d2" />
+
+<img width="4032" height="3024" alt="IMG_5921" src="https://github.com/user-attachments/assets/63757bff-9058-48dc-9b17-d888a9dd664e" />
+
+<img width="3024" height="4032" alt="IMG_5925" src="https://github.com/user-attachments/assets/dd3c7a39-62c3-4cb9-8dac-3b4f206bd14c" />
