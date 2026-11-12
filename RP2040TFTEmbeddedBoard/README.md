@@ -24,8 +24,10 @@ Designed a custom four-layer PCB based on the RP2040 microcontroller, integratin
 
 <img width="544" height="511" alt="Screenshot 2026-11-05 at 15 28 33" src="https://github.com/user-attachments/assets/42bc6632-793e-4744-80b9-a08fe6b84cec" />
 
+**Powered On**
+
+<img width="400" height="225" alt="IMG_5919" src="https://github.com/user-attachments/assets/a84e3890-b130-45b5-a379-15b0772da35f" />
+
 <img width="900" height="671" alt="Screenshot 2026-11-12 at 18 26 24" src="https://github.com/user-attachments/assets/aa6e8fe1-3b9e-4bfb-9801-060e35e0b6ec" />
 
 <img width="898" height="670" alt="Screenshot 2026-11-12 at 18 26 44" src="https://github.com/user-attachments/assets/d68f6a60-57db-4738-94af-d9db4a3616ed" />
-
-<img width="400" height="225" alt="IMG_5919" src="https://github.com/user-attachments/assets/a84e3890-b130-45b5-a379-15b0772da35f" />
