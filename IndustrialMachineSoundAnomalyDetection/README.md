@@ -15,3 +15,7 @@ Evaluated on the MIMII dataset, the system achieves competitive performance comp
 - Quantization of the model to TensorFlow Lite to INT8 for efficient embedded deployment.
 - Evaluation of the model and performance on the microcontroller.
 - Model inference on the RP2040 using C++ and TensorFlow Lite Micro.
+
+**Board Used**
+
+<img width="523" height="675" alt="Screenshot 2026-11-18 at 22 16 51" src="https://github.com/user-attachments/assets/7b7fa0b1-7e2c-4e05-9d19-032652e55b58" />
